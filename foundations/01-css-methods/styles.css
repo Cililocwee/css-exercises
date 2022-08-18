@@ -1,0 +1,9 @@
+.bulbasaur {
+    background-color: red;
+    width:fit-content;
+    padding: 10px 15px 5px 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+    font-weight: 900;
+    font-size: large;
+    color: white;
+}
